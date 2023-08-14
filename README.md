@@ -3,7 +3,7 @@
 ### Hello 👋
 *嘿, 你好, 欢迎来访我的个人仓库, 希望能够帮助到你 O(∩_∩)O , 谢谢支持, 祝您生活愉快.*
 
-- 🌱 我的自建站点: [博击长空](https://www.xilikeli.cn/)
+- 🌱 我的自建站点: [Txxunmei's blog](https://www.xilikeli.cn/)
 - 👯 我的 CSDN: [https://me.csdn.net/qq_41221623](https://me.csdn.net/qq_41221623)
 - 🔭 我的博客园: [https://www.cnblogs.com/txxunmei/](https://www.cnblogs.com/txxunmei/)
 - ⚡ 我的掘金: [https://juejin.im/user/1706052147489949](https://juejin.im/user/1706052147489949)
